@@ -16,4 +16,4 @@ This webpage is deployed to GitHub pages
 
 -Deployment link: https://iliyanivanov96.github.io/se_project_spots/
 
-Check out [this video](https://drive.google.com/file/d/1aTNf6iJGdPHJ2jC8tKeV7gvYARV3J1wS/view?usp=drive_link), where I describe my project and some challenges I faced while building it.
+Check out [this video] (https://drive.google.com/file/d/1aTNf6iJGdPHJ2jC8tKeV7gvYARV3J1wS/view?usp=sharing), where I describe my project and some challenges I faced while building it.
